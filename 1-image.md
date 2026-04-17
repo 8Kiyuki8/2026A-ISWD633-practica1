@@ -63,6 +63,8 @@ Con algoritmo SHA-256
 docker images | grep <termino a buscar>
 
 ```
+<img width="979" height="260" alt="image" src="https://github.com/user-attachments/assets/45ab8171-915c-4300-8af5-73b9248dd47d" />
+
 
 ### Para eliminar una imagen
 Eliminar permanentemente la imagen de tu sistema Docker.
@@ -72,6 +74,8 @@ docker rmi <nombre imagen>:<tag>
 ```
 
 Eliminar la imagen hello-world 
+<img width="666" height="143" alt="image" src="https://github.com/user-attachments/assets/931234d6-f3f4-4812-999b-a4c4046e7da1" />
+
 # COMPLETAR
 
 -f: Es la opción para forzar la eliminación de la imagen incluso si hay contenedores en ejecución que utilizan esa imagen.
