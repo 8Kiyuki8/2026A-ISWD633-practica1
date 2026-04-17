@@ -55,9 +55,16 @@ docker run --name <nombre contenedor> <nombre imagen>:<tag>
 ![Ecosistema de Docker](dockerRun.PNG)
 
 Crear y ejecutar inmediatamente el contenedor **srv-web2** usando la imagen nginx:alpine
+<img width="976" height="570" alt="image" src="https://github.com/user-attachments/assets/ec23a5d7-2db0-46a7-a628-f005d011e63f" />
+
 # COMPLETAR
 
 **¿Qué sucede luego de la ejecución del comando?**
+1. Descarga (si no existe): Docker busca la imagen nginx:alpine en PC. Si no la encuentra, la baja de internet.
+2. Crea y Nombra: Crea un contenedor nuevo basado en la imagen nginx:alpine y le pone el nombre srv-web2.
+3. Arranca el proceso: Inicia el servidor Nginx y bloquea tu terminal para mostrarte los logs (mensajes de lo que pasa en el servidor).
+-d significa que si se cierra la ventana, el servidor se apaga.
+
 # COMPLETAR  
 
 Cuando ejecutas un contenedor en primer plano sin la opción -d (modo detach), el contenedor captura la entrada estándar (stdin) del terminal, lo que significa que el terminal queda "atrapado" y no puedes introducir más comandos hasta que detengas el contenedor.
