@@ -23,6 +23,8 @@ Es un servidor web de código abierto que, desde su éxito inicial como servidor
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
+<img width="981" height="510" alt="image" src="https://github.com/user-attachments/assets/0aebd6ef-7f8e-4166-a5e2-aa9bb397b82a" />
+
 # COMPLETAR
 
 ### Listar imágenes
@@ -32,6 +34,7 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+<img width="981" height="139" alt="image" src="https://github.com/user-attachments/assets/555a2758-b24c-4e15-a46b-fd531d50ad84" />
 
 **Identificadores**
 
