@@ -14,6 +14,8 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
+<img width="977" height="379" alt="image" src="https://github.com/user-attachments/assets/a6d8be17-66a6-47a9-8871-c3ea1a16dcc5" />
+
 # COMPLETAR
 
 **¿Qué es nginx?**
