@@ -49,9 +49,12 @@ docker inspect <nombre imagen>:<tag>
 ```
 
 Inspeccionar la imagen hello-world 
+<img width="978" height="729" alt="image" src="https://github.com/user-attachments/assets/ae82da0a-fe2f-442a-9fc3-ffb01da45ce4" />
+
 # COMPLETAR
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
+Con algoritmo SHA-256
 # COMPLETAR
 
 ### Filtrar imágenes
