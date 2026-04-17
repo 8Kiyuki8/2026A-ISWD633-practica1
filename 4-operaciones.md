@@ -53,6 +53,8 @@ Ejecutar
 ```
 whoami
 ```
+<img width="380" height="179" alt="image" src="https://github.com/user-attachments/assets/6ca4a823-7200-4c9a-84bd-126cd25dd085" />
+
 # COLOCAR UNA CAPTURA DE PANTALLA
 
 **Si se visualiza el mensaje command not found, considerar**
