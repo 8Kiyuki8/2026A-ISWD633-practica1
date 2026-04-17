@@ -90,4 +90,6 @@ docker exec -it <nombre contenedor> <programa o comando>
 docker logs -n <cantidad de líneas> <nombre o id del contenedor> 
 ```
 -t: para incluir la fecha y la hora
+<img width="1364" height="322" alt="image" src="https://github.com/user-attachments/assets/725c1ff7-cd8e-458c-a683-b3dd2cc52d1d" />
+
 
