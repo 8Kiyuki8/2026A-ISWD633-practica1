@@ -4,6 +4,8 @@
 ```
 docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
+<img width="405" height="407" alt="image" src="https://github.com/user-attachments/assets/f880d5f5-c858-498d-a16e-14fffcc8613c" />
+
 # COMPLETAR
 ### ¿Para qué se usa el comando ls?
 Sirve para listar los archivos y directorios
