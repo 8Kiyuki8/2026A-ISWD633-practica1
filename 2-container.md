@@ -91,7 +91,8 @@ Eliminar el contenedor que se creó a partir de la imagen hello-world
 # COMPLETAR
 
 Verificar que el contenedor que se eliminó
-<img width="845" height="128" alt="image" src="https://github.com/user-attachments/assets/0855bf4e-af32-4b06-8945-5fa4b7d0d7ac" />
+<img width="979" height="172" alt="image" src="https://github.com/user-attachments/assets/fa9fbf98-ae4e-4d07-99bf-bcfa2b00ca2b" />
+
 
 # COMPLETAR
 
