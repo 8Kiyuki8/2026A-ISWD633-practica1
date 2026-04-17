@@ -62,8 +62,7 @@ Crear y ejecutar inmediatamente el contenedor **srv-web2** usando la imagen ngin
 **¿Qué sucede luego de la ejecución del comando?**
 1. Descarga (si no existe): Docker busca la imagen nginx:alpine en PC. Si no la encuentra, la baja de internet.
 2. Crea y Nombra: Crea un contenedor nuevo basado en la imagen nginx:alpine y le pone el nombre srv-web2.
-3. Arranca el proceso: Inicia el servidor Nginx y bloquea tu terminal para mostrarte los logs (mensajes de lo que pasa en el servidor).
--d significa que si se cierra la ventana, el servidor se apaga.
+3. Arranca el proceso: Inicia el servidor Nginx y bloquea el terminal para mostrar los logs.
 
 # COMPLETAR  
 
@@ -77,6 +76,8 @@ Cuando un contenedor se ejecuta en segundo plano, Docker devuelve el control al 
 docker run -d --name <nombre contenedor> <nombre imagen>:tag
 ```
 Crear y ejecutar inmediatamente el contenedor **srv-web3** en modo detach usando la imagen nginx:alpine
+<img width="524" height="113" alt="image" src="https://github.com/user-attachments/assets/7cae488e-449d-4874-a114-cefd8287e19b" />
+
 # COMPLETAR
 
 ### Para eliminar un contenedor
@@ -85,9 +86,13 @@ Crear y ejecutar inmediatamente el contenedor **srv-web3** en modo detach usando
 docker rm <nombre contenedor>
 ```
 Eliminar el contenedor que se creó a partir de la imagen hello-world 
+<img width="360" height="117" alt="image" src="https://github.com/user-attachments/assets/d6ac4277-f422-45e3-ac72-80b7a108fd20" />
+
 # COMPLETAR
 
 Verificar que el contenedor que se eliminó
+<img width="845" height="128" alt="image" src="https://github.com/user-attachments/assets/0855bf4e-af32-4b06-8945-5fa4b7d0d7ac" />
+
 # COMPLETAR
 
 ### Para eliminar un contenedor que esté ejecutándose
