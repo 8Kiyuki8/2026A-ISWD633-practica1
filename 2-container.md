@@ -101,9 +101,13 @@ Verificar que el contenedor que se eliminó
 docker rm -f <nombre contenedor>
 ```
 Eliminar el contenedor **srv-web3** 
+<img width="314" height="142" alt="image" src="https://github.com/user-attachments/assets/ade0dd79-31f8-4fa4-bf26-b4ecdaf9817c" />
+
 # COMPLETAR
 
 Verificar que el contenedor que se eliminó
+<img width="975" height="181" alt="image" src="https://github.com/user-attachments/assets/90d9fa88-f0cb-4346-bcc0-5cf591b679ed" />
+
 # COMPLETAR
 
 ### Para inspecionar un contenedor 
