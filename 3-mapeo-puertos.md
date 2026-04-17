@@ -46,9 +46,12 @@ docker run -P -d --name <nombre contenedor> <nombre imagen>:<tag>
 No puedes mapear puertos a un contenedor existente directamente después de su creación con Docker. El mapeo de puertos debe especificarse en el momento de crear y ejecutar el contenedor.
 
 ### Crear contenedor de Jenkins puertos contenedor: 8080 (interface web) y 50000 (comunicación entre nodos) imagen: jenkins/jenkins:alpine3.18-jdk11
+<img width="978" height="448" alt="image" src="https://github.com/user-attachments/assets/118a36d5-ac08-4a55-91b3-922906cb6131" />
+
 # COMPLETAR
 
 # COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:8080
+<img width="1294" height="693" alt="image" src="https://github.com/user-attachments/assets/f283e91f-9e5d-4d26-bebb-63509fd1ef1c" />
 
 ### ¿Cómo obtener la contraseña solicitada?
 Para obtener la contraseña solicitada es necesario ingresar al contenedor.
