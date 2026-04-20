@@ -1,1 +1,1 @@
-
+En esta práctica aprendí a usar Docker para gestionar imágenes y contenedores. Comprendí cómo descargar imágenes, crear, ejecutar y eliminar contenedores, así como la diferencia entre ejecutarlos en primer plano y en segundo plano. También aprendí a mapear puertos para acceder a servicios desde el navegador y a ejecutar comandos dentro de los contenedores
